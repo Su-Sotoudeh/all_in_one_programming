@@ -1,0 +1,11 @@
+,Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Avg_Length(M),Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency,Frequency
+Prefix,AC_,AE,AL,AM,AP,AY,BA,BX,CM,CP,CR,FN,FR,GK,HE,HF,HG,L7,LN,LR,LT,NC_,NZ_,OU,OV,OW,OX,OY,OZ,AC_,AE,AL,AM,AP,AY,BA,BX,CM,CP,CR,FN,FR,GK,HE,HF,HG,L7,LN,LR,LT,NC_,NZ_,OU,OV,OW,OX,OY,OZ
+Group,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Archaea,,2.42,1.67,2.77,2.16,1.71,1.87,1.66,,2.51,2.6,1.84,3.15,,2.79,2.86,2.03,1.66,2.25,1.95,2.25,2.22,2.77,,,,2.01,,,,11.0,2.0,3.0,37.0,2.0,5.0,1.0,,469.0,1.0,1.0,1.0,,1.0,2.0,1.0,1.0,5.0,6.0,8.0,159.0,494.0,,,,1.0,,
+Arthropoda,,22.27,,,17.02,,,,28.11,19.8,,,,,,,40.48,,,24.82,,28.71,,33.89,60.91,14.28,,,13.64,,6.0,,,23.0,,,,456.0,45.0,,,,,,,15.0,,,115.0,,2462.0,,119.0,55.0,30.0,,,15.0
+Bacteria,,,,,,,,,,,,,,,,,,,,,,2.37,3.78,,,,,,,,,,,,,,,,,,,,,,,,,,,,94.0,5637.0,,,,,,
+Chloroplast,,,,,,,,,,,,,,,,,,,,,,0.15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13329.0,,,,,,,
+Chordata,99.69,23.48,,,,,,,50.86,78.16,,,,108.46,,,2.71,,,,,57.81,,,25.49,,73.62,76.75,48.73,40.0,1.0,,,,,,,1701.0,157.0,,,,16.0,,,24.0,,,,,9230.0,,,16.0,,64.0,24.0,280.0
+Fungi,,,,,2.84,,,,4.0,2.22,,,,,,,,,,12.74,1.13,2.67,,,,,0.73,,1.45,,,,,7.0,,,,92.0,297.0,,,,,,,,,,11.0,93.0,1244.0,,,,,16.0,,48.0
+Mitochondria,,,,,,,,,,,,,,,,,,,,,,0.05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7639.0,,,,,,,
+Viridiplantae,,,,,33.77,,,,46.57,46.26,,21.72,,,,,42.9,,,16.69,,36.55,,31.11,,,,,21.23,,,,,8.0,,,,1612.0,228.0,,16.0,,,,,16.0,,,32.0,,659.0,,16.0,,,,,112.0

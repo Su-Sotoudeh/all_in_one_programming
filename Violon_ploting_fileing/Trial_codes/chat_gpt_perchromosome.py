@@ -1,0 +1,1 @@
+ONE_TRABITE = r"/media/su/Bioinf/Genomes_2025_3/Genomes_2025_3_7/Arthropoda_annotated_compelet_chromosome_genome_gff_gff_2025/ncbi_dataset/data"
